@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Leandro
+## 👋 Olá! Eu sou o Leandro
 
 💻 Sou programador **Full-Stack**, atualmente focado no desenvolvimento de sistemas web.  
 Trabalho na criação e evolução de um **sistema ERP** utilizado em processos industriais de análise e reparo de placas eletrônicas.
